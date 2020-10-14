@@ -34,8 +34,9 @@ pip install pandas
  
  <h2> Data Preprocessing </h2>
  Open "data_preprocessing.py" and run it.
+ Enter your chat file name or address of your chat file if not in same folder.
  
  <h2> Chatbot </h2>
- Run "chatbot.py" and thats it!!
+ Run "wp_bot.py" and thats it!!
  
  
